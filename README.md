@@ -1,6 +1,6 @@
 # Repo
 [Repository](https://repository.com)
-![Repository](C:\Users\rezan\OneDrive\Pictures\Screenshots\reza.png)
+![Repository](C:\Users\rezan\OneDrive\Pictures\Screenshots)
 
 
 
