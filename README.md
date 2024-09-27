@@ -1,3 +1,3 @@
 # Repo
-[Repository](http:\\www.repository.com)
+[Repository](https://repository.com)
 
